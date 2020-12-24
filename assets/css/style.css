@@ -58,8 +58,8 @@ h2{
   font-size: 36px;
   font-style: normal;
   font-weight: 400;
-  line-height: 42px;
-  letter-spacing: 0em;
+  line-height: 0;
+  letter-spacing: 0;
 }
 
 .featured-book p,
@@ -69,7 +69,7 @@ h2{
   font-style: normal;
   font-weight: 400;
   line-height: 42px;
-  letter-spacing: 0em;
+  letter-spacing: 0;
   text-align: left;
 }
 .copyright{
@@ -99,14 +99,14 @@ img {
     margin: 100px 0 0 0; } 
 
   .featured-book__image {
-    grid-column: 2/7; }
+    grid-column: 1/7; }
   .featured-book__description {
-    grid-column: 7/ span 4; }  
+    grid-column: 7/ span 7; }  
 
   .story__description {
-    grid-column: 2/11; }
+    grid-column: 1/7; }
   .story__video {
-    grid-column: 1/8 span 4; }         
+    grid-column: 7/ span 6; }         
 }
 
 a.footer-link {
