@@ -90,16 +90,24 @@ h2{
   margin-bottom: 0;
 }
 .recommendations p {
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px;
+  letter-spacing: 0em;
+  color:#fff;
+  text-transform: uppercase;
+}
+.copyright{
+  color: white;
   font-family: Autour One;
-  font-size: 23px;
+  font-size: 18px;
   font-style: normal;
   font-weight: 400;
   line-height: 27px;
   letter-spacing: 0em;
   color:#fff;
-}
-.copyright{
-  color: white;
 }
 img {
   display: block;
@@ -135,10 +143,10 @@ img {
     grid-column: 7/ span 6; } 
   
   .recommendations__heading {
-    grid-column: 1/ span 12;
+    grid-column: 2/ span 10;
   }
   .testimonial-box {
-    grid-column: 1/ span 12;}
+    grid-column: 2/ span 10;}
   }
 }
 
