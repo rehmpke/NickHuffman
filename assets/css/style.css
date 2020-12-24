@@ -26,6 +26,17 @@ body {
   background-size: cover;
   background-position: 0 -120px;
 }
+
+.heading--hero-shot{
+font-family: Autour One;
+font-size: 23px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+}
+
 .hero-shot__container{
   background-image: url('../../assets/img/book-cover-bk.jpg');
   background-size: cover;
