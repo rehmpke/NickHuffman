@@ -77,13 +77,14 @@ h2{
 
 .featured-book p,
 .story p {
-  font-family: Aubrey;
-  font-size: 36px;
+  font-family: Autour One;
+  font-size: 23px;
   font-style: normal;
   font-weight: 400;
   line-height: 42px;
   letter-spacing: 0;
   text-align: left;
+  color: rgb(192, 192, 192)
 }
 
 .recommendations h2 {
