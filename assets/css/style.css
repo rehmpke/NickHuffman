@@ -28,22 +28,23 @@ body {
   background-repeat: no-repeat;
 }
 
-.heading--hero-shot{
-font-family: Autour One;
-font-size: 23px;
-font-style: normal;
-font-weight: 400;
-line-height: 27px;
-letter-spacing: 0em;
-text-align: left;
-}
-
 .hero-shot__container{
   background-image: url('../../assets/img/book-cover-bk.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 0 -80px ;
 }
+
+.heading--hero-shot{
+  font-family: Autour One;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
 h2{
   font-family: Autour One;
   font-size: 23px;
@@ -168,11 +169,12 @@ img {
     grid-column: 2/ span 10;
   }
 
-  .testimonial-box img {
-    display: inline-block;
-    margin: 20px;
-    vertical-align: middle;
-  }
+}
+
+.testimonial-box img {
+  display: inline-block;
+  margin: 20px;
+  vertical-align: middle;
 }
 
 p.phone-number {
