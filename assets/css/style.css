@@ -30,7 +30,7 @@ html, body {
   background-image: url('../../assets/img/book-cover-bk.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: 0 -80px ;
+  background-position: -160px -80px ;
 }
 
 .heading--hero-shot{
@@ -153,6 +153,14 @@ img {
 
   p.phone-number {
     font-size: 32px;
+  }
+
+  .hero-shot{
+    background-position: 0 -120px;
+  }
+  
+  .hero-shot__container{
+    background-position: 0 -80px ;
   }
 
   .hero-shot__container,
