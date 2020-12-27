@@ -156,6 +156,12 @@ img {
   .testimonial-box {
     grid-column: 2/ span 10;}
   }
+
+  .testimonial-box img {
+    display: inline-block;
+    margin: 20px;
+    vertical-align: middle;
+  }
 }
 
 a.footer-link {
