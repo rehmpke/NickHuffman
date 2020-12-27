@@ -71,7 +71,7 @@ h2{
   font-size: 36px;
   font-style: normal;
   font-weight: 400;
-  line-height: 0;
+  line-height: 1.2;
   letter-spacing: 0;
 }
 
@@ -118,6 +118,13 @@ img {
   transition: opacity 1.5s cubic-bezier(0.25, 0.1, 0, 1.49); }
 
 @media screen and (min-width: 768px) {
+  .featured-book h2,
+  .story h2,
+  .recommendations h2 {
+    margin-top: -4px;
+    margin-bottom: -13px;
+  }
+
   .hero-shot__container,
   .featured-book__container,
   .story__container,
