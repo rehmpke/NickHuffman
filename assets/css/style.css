@@ -52,6 +52,8 @@ h2{
   line-height: 27px;
   letter-spacing: 0em;
   color:#84C058;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 .author-line{
   font-family: Autour One;
@@ -84,7 +86,11 @@ h2{
   line-height: 42px;
   letter-spacing: 0;
   text-align: left;
-  color: rgb(192, 192, 192)
+  color: rgb(192, 192, 192);
+}
+p{
+margin-left: 20px;
+margin-right: 20px;
 }
 
 .recommendations h2 {
@@ -124,6 +130,11 @@ img {
     margin-top: -4px;
     margin-bottom: -13px;
   }
+
+  p, h2 {
+  margin-left: 0;
+  margin-right: 0;
+}
 
   .hero-shot__container,
   .featured-book__container,
