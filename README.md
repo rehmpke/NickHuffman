@@ -1,5 +1,5 @@
 # NickHuffman
-This was a family friend Nick's book 'http://fuckmanthebook.com/' Landing page site. Out of respect for everything he did in this town and for community, I kept this alive. The title is interesting but that was Nick.
+This was a family friend Nick's book 'http://fuckmanthebook.com/' Landing page site. He has passed away and out of respect for everything he did in this town and for community, I kept this alive. The title is interesting but that was Nick.
 
 ![Nick's book stack](https://github.com/rehmpke/NickHuffman/blob/main/assets/img/book-stack-image.jpg)
 
